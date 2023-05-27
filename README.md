@@ -1,3 +1,5 @@
+![Glory to Ukraine](https://github.com/metatypeman/metatypeman/blob/main/UA_Flag.jpg)
+
 - 👋 Hi, I’m Sergiy Tolkachov aka @metatypeman
 - 👀 I’m interested in .NET, symbolic logic, game AI, gamedev.
 - 🍑 I like .NET, SQL, Prolog and Unity.
